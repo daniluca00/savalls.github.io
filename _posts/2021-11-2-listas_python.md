@@ -1,10 +1,11 @@
+---
 typora-copy-images-to: ../assets/img
 typora-root-url: ../../
 layout: post
 categories: 
 conToc: true
 title: Listas en Python
-
+---
 
 
 
