@@ -9,7 +9,7 @@ title: Pruebas Fork - pull request
 
 # Pruebas Fork - pull request
 
-​	
+
 
 ## Fork de un proyecto
 
@@ -24,3 +24,12 @@ Puedes hacer un Fork desde la propia página de GitHub, entrando en un  reposito
 Hola Santi que tal estas ? 
 
 El github funciona.
+
+
+
+En tu fork se supone que habrás realizado diversos cambios en el código, en uno o más ficheros. Tendrás entonces que hacer el commit para  enviarlos a tu copia del repositorio en local.
+
+Nota: Ya debes conocer la operación commit, si no, mira en el artículo [Primer commit](https://desarrolloweb.com/articulos/iniciar-repositorio-git-primer-commit.html) del Manual de Git.
+
+Luego tendrás que enviar esos cambios a tu propio repositorio, el fork,  publicado en GitHub. Eso lo consigues con el comando git push, indicando el repo al que quieres enviar los cambios y la rama donde enviarlos.
+
